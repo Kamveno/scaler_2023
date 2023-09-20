@@ -1,4 +1,4 @@
-public class  kam{
+public class  Kam{
   
 public static void main(String[] args){
                         
